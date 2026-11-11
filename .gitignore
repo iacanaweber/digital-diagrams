@@ -1,0 +1,20 @@
+# Source material: copyrighted books and standards. Never commit.
+material/
+# Scratch space: extracted text, page images, conversions, raw agent outputs.
+work/
+
+# Source and derived document formats. Never commit.
+*.pdf
+*.epub
+*.mobi
+*.azw3
+*.djvu
+*.zip
+*.7z
+*.rar
+
+# Editor and OS noise
+.DS_Store
+*.swp
+__pycache__/
+node_modules/
